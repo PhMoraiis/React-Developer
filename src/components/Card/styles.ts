@@ -9,7 +9,7 @@ export const CardContainer = styled.div`
 
 export const ImageBackground = styled.img`
     width: 100%;
-    height: 180px;
+    height: 200px;
 `;
 
 export const Content = styled.div`

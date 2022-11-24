@@ -1,7 +1,6 @@
 import React from 'react'
 import { CardContainer, Content, HasInfo, ImageBackground, PostInfo, UserInfo, UserPicture } from './styles'
 import ImgProfile from '../../assets/profile-pic (5).png'
-import FiThumbsUp from '../../assets/thumbs-up.svg'
 
 
 const Card = () => {
@@ -23,7 +22,7 @@ const Card = () => {
             <HasInfo>
                 <h4>#HTML #CSS #Javascript</h4>
                 <p>
-                    <FiThumbsUp /> 10
+                 10
                 </p>
             </HasInfo>
         </Content>
