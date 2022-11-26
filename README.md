@@ -1,6 +1,6 @@
 # Projeto de Clone da página da DIO
 
-## Projeto feito utilizando ReactJS, TypeScript, Vite, Styled Components, React Hook Form, 
+## Projeto feito utilizando ReactJS, TypeScript, Vite, Styled Components e React Hook Form.
 
 Realizei o clone da página inicial da DIO, baseado no projeto do Bootcamp Orange Tech +, oferecido pela a DIO e a Inter.
 
